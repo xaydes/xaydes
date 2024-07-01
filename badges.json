@@ -1,8 +1,25 @@
 {
- "1203209220120514560" : ["Doner","https://cdn.discordapp.com/emojis/1193192686774141060.webp?size=128&quality=lossless"],
-"1234916234789650463" : [
- ["Rich","https://cdn.discordapp.com/emojis/1193192686774141060.webp?size=128&quality=lossless"],
-["Owner","https://cdn.discordapp.com/emojis/1193192686774141060.webp?size=128&quality=lossless"],
-["The Shadow Nigga","https://cdn.discordapp.com/emojis/1193192686774141060.webp?size=128&quality=lossless"]
-]
+    badges: {
+        "doner": {
+            tip: "doner",
+            icon: "https://cdn.discordapp.com/emojis/1193192686774141060.webp?size=128&quality=lossless"
+        },
+        "rich": {
+            tip: "rich",
+            icon: "https://cdn.discordapp.com/emojis/1193192686774141060.webp?size=128&quality=lossless"
+        },
+        "supporter": {
+            tip: "supporter",
+            icon: "https://cdn.discordapp.com/emojis/1193192686774141060.webp?size=128&quality=lossless"
+        },
+        "owner": {
+            tip: "supporter",
+            icon: "https://cdn.discordapp.com/emojis/1193192686774141060.webp?size=128&quality=lossless"
+        },
+    },
+    users: {
+        "1203209220120514560": ["doner", "rich", "supporter"],
+        "1234916234789650463": ["owner", "The Shadow Nigga"],
+        "1143377039903166464": ["owner", "The Shadow Nigga"],
+    }
 }
