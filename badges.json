@@ -1,1 +1,19 @@
-{ test }
+{
+  "badges": [
+    {
+      "id": 1,
+      "name": "JavaScript Expert",
+      "description": "Awarded for mastering JavaScript."
+    },
+    {
+      "id": 2,
+      "name": "TypeScript Guru",
+      "description": "Awarded for mastering TypeScript."
+    },
+    {
+      "id": 3,
+      "name": "React Developer",
+      "description": "Awarded for mastering React."
+    }
+  ]
+}
