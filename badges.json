@@ -1,10 +1,6 @@
 {
-  "badges": [
-    {
-      "doner" : {
-              "ids": ["1203209220120514560"],
-              "url" : "https://cdn.discordapp.com/emojis/1193192686774141060.webp?size=128&quality=lossless"
-      }
-    },
-  ]
+ "1203209220120514560" : ["Doner","https://cdn.discordapp.com/emojis/1193192686774141060.webp?size=128&quality=lossless"],
+"1234916234789650463" : ["Rich","https://cdn.discordapp.com/emojis/1193192686774141060.webp?size=128&quality=lossless"],
+"1234916234789650463" : ["Owner","https://cdn.discordapp.com/emojis/1193192686774141060.webp?size=128&quality=lossless"],
+"1234916234789650463" : ["The Shadow Nigga","https://cdn.discordapp.com/emojis/1193192686774141060.webp?size=128&quality=lossless"],
 }
