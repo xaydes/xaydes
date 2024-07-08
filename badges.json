@@ -19,6 +19,10 @@
         "femboy": {
             "tip": "femboy",
             "icon": "https://cdn.discordapp.com/emojis/1221558893767823444.gif?size=128&quality=lossless"
+        },
+        "dick": {
+            "icon": "https://cdn.discordapp.com/emojis/1061814462526529579.webp?size=160&quality=lossless",
+            "tip": "This user loves dick"
         }
     },
     "users": {
