@@ -15,11 +15,17 @@
         "owner": {
             "tip": "Owner",
             "icon": "https://cdn3.emoji.gg/emojis/2920-blue-verify.gif"
+        },
+         "femboy": {
+            "tip": "femboy",
+            "icon": "https://cdn.discordapp.com/emojis/1221558893767823444.gif?size=128&quality=lossless"
         }
     },
     "users": {
-        "1203209220120514560": ["doner", "rich", "supporter"],
+        "1203209220120514560": ["supporter"],
         "1234916234789650463": ["supporter", "The Shadow Nigga"],
-        "1143377039903166464": ["rich","The Shadow Nigga"]
+        "1143377039903166464": ["rich","The Shadow Nigga"],
+        "1256413320081182724": ["femboy"]
     }
 }
+
