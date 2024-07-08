@@ -20,9 +20,9 @@
             "tip": "femboy",
             "icon": "https://cdn.discordapp.com/emojis/1221558893767823444.gif?size=128&quality=lossless"
         },
-        "dick": { 
+        "dick": {
             "tip": "This user loves dick",
-            "icon": "https://cdn.discordapp.com/emojis/1061814462526529579.webp?size=160&quality=lossless"         
+            "icon": "https://cdn.discordapp.com/emojis/1061814462526529579.webp?size=160&quality=lossless"
         }
     },
     "users": {
@@ -61,6 +61,9 @@
         "test": [
             "noway"
         ],
-        "1022258731154673695": []
+        "1022258731154673695": [],
+        "968658669145317456": [
+            "dick"
+        ]
     }
 }
