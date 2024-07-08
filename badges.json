@@ -19,24 +19,6 @@
         "femboy": {
             "tip": "femboy",
             "icon": "https://cdn.discordapp.com/emojis/1221558893767823444.gif?size=128&quality=lossless"
-        },
-        "test": {
-            "name": "badges.json",
-            "path": "badges.json",
-            "sha": "bf25fa6c46e80dc45fef324cef7d42c2a045e00f",
-            "size": 1539,
-            "url": "https://api.github.com/repos/xaydes/xaydes/contents/badges.json?ref=main",
-            "html_url": "https://github.com/xaydes/xaydes/blob/main/badges.json",
-            "git_url": "https://api.github.com/repos/xaydes/xaydes/git/blobs/bf25fa6c46e80dc45fef324cef7d42c2a045e00f",
-            "download_url": "https://raw.githubusercontent.com/xaydes/xaydes/main/badges.json",
-            "type": "file",
-            "content": "ewogICAgImJhZGdlcyI6IHsKICAgICAgICAiZG9uZXIiOiB7CiAgICAgICAg\nICAgICJ0aXAiOiAiZG9uZXIiLAogICAgICAgICAgICAiaWNvbiI6ICJodHRw\nczovL2Nkbi5kaXNjb3JkYXBwLmNvbS9lbW9qaXMvMTE5MzE5MjY4Njc3NDE0\nMTA2MC53ZWJwP3NpemU9MTI4JnF1YWxpdHk9bG9zc2xlc3MiCiAgICAgICAg\nfSwKICAgICAgICAicmljaCI6IHsKICAgICAgICAgICAgInRpcCI6ICJyaWNo\nIiwKICAgICAgICAgICAgImljb24iOiAiaHR0cHM6Ly9jZG4zLmVtb2ppLmdn\nL2Vtb2ppcy85MTg3Mi1tb25leS5naWYiCiAgICAgICAgfSwKICAgICAgICAi\nc3VwcG9ydGVyIjogewogICAgICAgICAgICAidGlwIjogIlhheWRlcyBTdXBw\nb3J0ZXIiLAogICAgICAgICAgICAiaWNvbiI6ICJodHRwczovL2Nkbi5kaXNj\nb3JkYXBwLmNvbS9lbW9qaXMvMTEwNjk2OTQyNzY2MjA4MjIzMC5naWY/c2l6\nZT0xMjgmcXVhbGl0eT1sb3NzbGVzcyIKICAgICAgICB9LAogICAgICAgICJv\nd25lciI6IHsKICAgICAgICAgICAgInRpcCI6ICJPd25lciIsCiAgICAgICAg\nICAgICJpY29uIjogImh0dHBzOi8vY2RuMy5lbW9qaS5nZy9lbW9qaXMvMjky\nMC1ibHVlLXZlcmlmeS5naWYiCiAgICAgICAgfSwKICAgICAgICAiZmVtYm95\nIjogewogICAgICAgICAgICAidGlwIjogImZlbWJveSIsCiAgICAgICAgICAg\nICJpY29uIjogImh0dHBzOi8vY2RuLmRpc2NvcmRhcHAuY29tL2Vtb2ppcy8x\nMjIxNTU4ODkzNzY3ODIzNDQ0LmdpZj9zaXplPTEyOCZxdWFsaXR5PWxvc3Ns\nZXNzIgogICAgICAgIH0KICAgIH0sCiAgICAidXNlcnMiOiB7CiAgICAgICAg\nIjEyMDMyMDkyMjAxMjA1MTQ1NjAiOiBbCiAgICAgICAgICAgICJzdXBwb3J0\nZXIiCiAgICAgICAgXSwKICAgICAgICAiMTIzNDkxNjIzNDc4OTY1MDQ2MyI6\nIFsKICAgICAgICAgICAgInN1cHBvcnRlciIsCiAgICAgICAgICAgICJUaGUg\nU2hhZG93IE5pZ2dhIgogICAgICAgIF0sCiAgICAgICAgIjExNDMzNzcwMzk5\nMDMxNjY0NjQiOiBbCiAgICAgICAgICAgICJyaWNoIiwKICAgICAgICAgICAg\nIlRoZSBTaGFkb3cgTmlnZ2EiLAogICAgICAgICAgICAiZmVtYm95IgogICAg\nICAgIF0sCiAgICAgICAgIjEyNTY0MTMzMjAwODExODI3MjQiOiBbCiAgICAg\nICAgICAgICJmZW1ib3kiLAogICAgICAgICAgICAic3VwcG9ydGVyIgogICAg\nICAgIF0sCiAgICAgICAgIjEyNTU5MDUyNjkwMzI5NDc4NDQiOiBbCiAgICAg\nICAgICAgICJzdXBwb3J0ZXIiCiAgICAgICAgXSwKICAgICAgICAiMTEyMTc4\nNjYyNjYzNzU3ODMyMSI6IFsKICAgICAgICAgICAgInN1cHBvcnRlciIKICAg\nICAgICBdLAogICAgICAgICIxMDI3NTMwNDI3ODYwMjU0ODAxIjogWwogICAg\nICAgICAgICAic3VwcG9ydGVyIgogICAgICAgIF0sCiAgICAgICAgIjEwODcz\nMzM0NjkyNzg5Njk4NjkiOiBbCiAgICAgICAgICAgICJzdXBwb3J0ZXIiCiAg\nICAgICAgXSwKICAgICAgICAidGVzdCI6IFsKICAgICAgICAgICAgIm5vd2F5\nIgogICAgICAgIF0sCiAgICAgICAgIjEwMjIyNTg3MzExNTQ2NzM2OTUiOiBb\nXQogICAgfQp9\n",
-            "encoding": "base64",
-            "_links": {
-                "self": "https://api.github.com/repos/xaydes/xaydes/contents/badges.json?ref=main",
-                "git": "https://api.github.com/repos/xaydes/xaydes/git/blobs/bf25fa6c46e80dc45fef324cef7d42c2a045e00f",
-                "html": "https://github.com/xaydes/xaydes/blob/main/badges.json"
-            }
         }
     },
     "users": {
