@@ -46,6 +46,8 @@
         "1087333469278969869": [
             "supporter"
         ],
-        "test": "noway"
+        "test": [
+            "noway"
+        ]
     }
 }
