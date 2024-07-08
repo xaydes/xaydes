@@ -1,1 +1,51 @@
-{"badges":{"doner":{"tip":"doner","icon":"https://cdn.discordapp.com/emojis/1193192686774141060.webp?size=128&quality=lossless"},"rich":{"tip":"rich","icon":"https://cdn3.emoji.gg/emojis/91872-money.gif"},"supporter":{"tip":"Xaydes Supporter","icon":"https://cdn.discordapp.com/emojis/1106969427662082230.gif?size=128&quality=lossless"},"owner":{"tip":"Owner","icon":"https://cdn3.emoji.gg/emojis/2920-blue-verify.gif"},"femboy":{"tip":"femboy","icon":"https://cdn.discordapp.com/emojis/1221558893767823444.gif?size=128&quality=lossless"}},"users":{"1203209220120514560":["supporter"],"1234916234789650463":["supporter","The Shadow Nigga"],"1143377039903166464":["rich","The Shadow Nigga"],"1256413320081182724":["femboy","supporter"],"1121786626637578321":["supporter"],"1027530427860254801":["supporter"],"1087333469278969869":["supporter"],"test":"test"}}
+{
+    "badges": {
+        "doner": {
+            "tip": "doner",
+            "icon": "https://cdn.discordapp.com/emojis/1193192686774141060.webp?size=128&quality=lossless"
+        },
+        "rich": {
+            "tip": "rich",
+            "icon": "https://cdn3.emoji.gg/emojis/91872-money.gif"
+        },
+        "supporter": {
+            "tip": "Xaydes Supporter",
+            "icon": "https://cdn.discordapp.com/emojis/1106969427662082230.gif?size=128&quality=lossless"
+        },
+        "owner": {
+            "tip": "Owner",
+            "icon": "https://cdn3.emoji.gg/emojis/2920-blue-verify.gif"
+        },
+        "femboy": {
+            "tip": "femboy",
+            "icon": "https://cdn.discordapp.com/emojis/1221558893767823444.gif?size=128&quality=lossless"
+        }
+    },
+    "users": {
+        "1203209220120514560": [
+            "supporter"
+        ],
+        "1234916234789650463": [
+            "supporter",
+            "The Shadow Nigga"
+        ],
+        "1143377039903166464": [
+            "rich",
+            "The Shadow Nigga"
+        ],
+        "1256413320081182724": [
+            "femboy",
+            "supporter"
+        ],
+        "1121786626637578321": [
+            "supporter"
+        ],
+        "1027530427860254801": [
+            "supporter"
+        ],
+        "1087333469278969869": [
+            "supporter"
+        ],
+        "test": "test"
+    }
+}
